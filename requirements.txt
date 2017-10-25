@@ -1,0 +1,16 @@
+cffi==1.5.0
+cryptography==1.2.2
+enum34==1.1.2
+idna==2.0
+ipaddress==1.0.16
+oauthlib==1.0.3
+pyasn1==0.1.9
+pycparser==2.14
+pycrypto==2.6.1
+PyJWT==1.4.0
+python-dateutil==2.4.2
+pyxero==0.7.0
+requests==2.9.1
+requests-oauthlib==0.6.0
+six==1.10.0
+wheel==0.24.0
